@@ -12,8 +12,8 @@
   <tr>
     <td width="75%">
       <h3>Education experience</h3>
-      <p><b>From 2014 to 2018, he studied in Jiangsu university of science and technology and obtained a bachelor's degree</b></p>
-      <p><b>From 2018 to now, I have been studying for a master's degree in Suzhou University.</b></p>
+      <p><b>From 2014 to 2018, studied in Jiangsu University Of Science And Technology，obtained a bachelor's degree</b></p>
+      <p><b>From 2018 to now, studying in Soochow University</b></p>
     </td>
   </tr>
 </table>
